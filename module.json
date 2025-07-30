@@ -166,7 +166,7 @@
         }
     ],
     "url": "https://github.com/gothvf/5e-complete-v13",
-    "manifest": "https://github.com/gothvf/5e-complete-v13/releases/download/main/module.json",
-    "download": "https://github.com/gothvf/5e-complete-v13/releases/download/main/module.zip",
+    "manifest": "https://github.com/gothvf/5e-complete-v13/releases/download/latest/module.json",
+    "download": "https://github.com/gothvf/5e-complete-v13/releases/download/latest/module.zip",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
 }
