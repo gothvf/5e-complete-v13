@@ -165,8 +165,8 @@
             "package": "5e-complete"
         }
     ],
-    "url": "https://github.com/RainbowGamx/5e-complete-v12",
-    "manifest": "https://github.com/RainbowGamx/5e-complete-v12/releases/download/v0.3.13/module.json",
-    "download": "https://github.com/RainbowGamx/5e-complete-v12/releases/download/v0.3.13/module.zip",
+    "url": "https://github.com/gothvf/5e-complete-v13",
+    "manifest": "https://github.com/gothvf/5e-complete-v13/releases/download/main/module.json",
+    "download": "https://github.com/gothvf/5e-complete-v13/releases/download/main/module.zip",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
 }
